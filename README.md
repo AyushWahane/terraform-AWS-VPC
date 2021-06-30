@@ -3,8 +3,6 @@
 
 This Terraform module is used to create a VPC with certain options.
 
-<img src="https://img.shields.io/github/license/smc181002/aws-vpc-launc" />
-
 ## Usage
 
 ### Inputs [arguments]
